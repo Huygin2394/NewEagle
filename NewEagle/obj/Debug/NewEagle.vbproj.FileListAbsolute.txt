@@ -1,0 +1,13 @@
+C:\Users\sfujita\source\repos\NewEagle\NewEagle\bin\Debug\NewEagle.exe.config
+C:\Users\sfujita\source\repos\NewEagle\NewEagle\bin\Debug\NewEagle.exe
+C:\Users\sfujita\source\repos\NewEagle\NewEagle\bin\Debug\NewEagle.pdb
+C:\Users\sfujita\source\repos\NewEagle\NewEagle\bin\Debug\NewEagle.xml
+C:\Users\sfujita\source\repos\NewEagle\NewEagle\obj\Debug\NewEagle.vbprojResolveAssemblyReference.cache
+C:\Users\sfujita\source\repos\NewEagle\NewEagle\obj\Debug\NewEagle.Home.resources
+C:\Users\sfujita\source\repos\NewEagle\NewEagle\obj\Debug\NewEagle.Resources.resources
+C:\Users\sfujita\source\repos\NewEagle\NewEagle\obj\Debug\NewEagle.vbproj.GenerateResource.cache
+C:\Users\sfujita\source\repos\NewEagle\NewEagle\obj\Debug\NewEagle.vbproj.CoreCompileInputs.cache
+C:\Users\sfujita\source\repos\NewEagle\NewEagle\obj\Debug\NewEagle.exe
+C:\Users\sfujita\source\repos\NewEagle\NewEagle\obj\Debug\NewEagle.xml
+C:\Users\sfujita\source\repos\NewEagle\NewEagle\obj\Debug\NewEagle.pdb
+C:\Users\sfujita\source\repos\NewEagle\NewEagle\obj\Debug\NewEagle.Register.resources
